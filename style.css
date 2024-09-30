@@ -1,0 +1,22 @@
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+*{
+    color: white;
+}
+#para1{
+    color: lightblue;
+    font-size: large;
+}
+#para2{
+    color: bisque;
+    font-size: larger;
+}
+#para3{
+    color: lightcoral;
+    font-size: medium;
+}
